@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 💬 Ask me about **Python and Java**
+- 💬 Ask me about **Python, C++, JS**
 
 - 📫 How to reach me **chauhan77kartik@gmail.com**
 
-- ⚡ Fun fact **Games develop Critical thinking**
+- ⚡ Fun fact **Sports develop Critical Thinking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
